@@ -1,0 +1,65 @@
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/cmac_usplus_0/cmac_usplus_0.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/cmac_usplus_1/cmac_usplus_1.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/axi_lite_clock_converter/axi_lite_clock_converter.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/cmac_subsystem_axi_crossbar/cmac_subsystem_axi_crossbar.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/.out/smartnic_322mhz/xilinx_ip/hbm_4g_right/hbm_4g_right.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/.out/smartnic_322mhz/xilinx_ip/hbm_4g_left/hbm_4g_left.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/.out/common/axi4l/xilinx_ip/axi_clock_converter_0/axi_clock_converter_0.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/.out/common/fifo/xilinx_ip/fifo_xilinx_ila/fifo_xilinx_ila.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/.out/smartnic_322mhz/xilinx_ip/axis_switch_egress/axis_switch_egress.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/.out/smartnic_322mhz/xilinx_ip/axis_switch_ingress/axis_switch_ingress.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/.out/smartnic_322mhz/xilinx_ip/clk_wiz_1/clk_wiz_1.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/.out/smartnic_322mhz/xilinx_ip/clk_wiz_0/clk_wiz_0.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/axi_stream_pipeline/axi_stream_pipeline.xci' is already up-to-date
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'box_250mhz_axi_crossbar'...
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/.out/common/axi4s/xilinx_ip/ila_axi4s/ila_axi4s.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/qdma_subsystem_c2h_ecc/qdma_subsystem_c2h_ecc.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/qdma_subsystem_axi_crossbar/qdma_subsystem_axi_crossbar.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/qdma_subsystem_axi_cdc/qdma_subsystem_axi_cdc.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/qdma_subsystem_clk_div/qdma_subsystem_clk_div.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/system_management_wiz/system_management_wiz.xci' is already up-to-date
+INFO: [Vivado 12-4149] The synthesis checkpoint for IP '/home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/vivado_ip/system_config_axi_crossbar/system_config_axi_crossbar.xci' is already up-to-date
+[Wed Mar 22 23:30:40 2023] Launched box_250mhz_axi_crossbar_synth_1, qdma_no_sriov_synth_1, synth_1...
+Run output will be captured here:
+box_250mhz_axi_crossbar_synth_1: /home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/open_nic_shell/open_nic_shell.runs/box_250mhz_axi_crossbar_synth_1/runme.log
+qdma_no_sriov_synth_1: /home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/open_nic_shell/open_nic_shell.runs/qdma_no_sriov_synth_1/runme.log
+synth_1: /home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/open_nic_shell/open_nic_shell.runs/synth_1/runme.log
+[Wed Mar 22 23:30:40 2023] Launched impl_1...
+Run output will be captured here: /home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/open_nic_shell/open_nic_shell.runs/impl_1/runme.log
+[Wed Mar 22 23:30:40 2023] Waiting for impl_1 to finish...
+[Wed Mar 22 23:37:02 2023] impl_1 finished
+WARNING: [Vivado 12-8222] Failed run(s) : 'qdma_no_sriov_synth_1'
+wait_on_runs: Time (s): cpu = 00:05:45 ; elapsed = 00:06:22 . Memory (MB): peak = 4387.516 ; gain = 0.000 ; free physical = 3350 ; free virtual = 4261
+# if {$post_impl} {
+#     _do_post_impl $top_build_dir $top impl_1 $zynq_family
+# }
+Command: write_cfgmem -format mcs -size 128 -interface SPIx4 -loadbit {up 0x01002000 /home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/open_nic_shell/open_nic_shell.runs/impl_1/open_nic_shell.bit} -file /home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/open_nic_shell/open_nic_shell.runs/impl_1/open_nic_shell.mcs
+Creating config memory files...
+Creating bitstream load up from address 0x01002000
+Loading bitfile /home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/open_nic_shell/open_nic_shell.runs/impl_1/open_nic_shell.bit
+ERROR: [Bitstream 40-47] File /home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/open_nic_shell/open_nic_shell.runs/impl_1/open_nic_shell.bit does not exist.
+ERROR: [Bitstream 40-46] File /home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/open_nic_shell/open_nic_shell.runs/impl_1/open_nic_shell.bit cannot be opened for input.
+ERROR: [Writecfgmem 68-7] Could not load bitfile /home/firas/Documents/u55_trial_1/esnet-smartnic-hw/open-nic-shell/build/au55c_esnet-smartnic-p4_only/open_nic_shell/open_nic_shell.runs/impl_1/open_nic_shell.bit.
+0 Infos, 0 Warnings, 0 Critical Warnings and 3 Errors encountered.
+write_cfgmem failed
+ERROR: [Common 17-39] 'write_cfgmem' failed due to earlier errors.
+
+    while executing
+"write_cfgmem -format mcs -size 128 -interface $interface -loadbit "up $start_address $bit_file" -file "$mcs_file""
+    invoked from within
+"if {$zynq_family} {
+        current_run $impl_run
+        set sdk_dir ${build_dir}/${top}.sdk
+        file mkdir $sdk_dir
+        write_hw_platform -f..."
+    (procedure "_do_post_impl" line 2)
+    invoked from within
+"_do_post_impl $top_build_dir $top impl_1 $zynq_family"
+    invoked from within
+"if {$post_impl} {
+    _do_post_impl $top_build_dir $top impl_1 $zynq_family
+}"
+    (file "build.tcl" line 437)
+INFO: [Common 17-206] Exiting Vivado at Wed Mar 22 23:37:02 2023...
+make[2]: *** [makefile.esnet:129: bitfile] Error 1
+make[1]: *** [Makefile:48: bitfile] Error 2
